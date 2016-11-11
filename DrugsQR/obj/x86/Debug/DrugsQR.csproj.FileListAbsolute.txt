@@ -1,0 +1,8 @@
+D:\Work\DotNet\DrugsQR\DrugsQR\bin\Debug\DrugsQR.exe.config
+D:\Work\DotNet\DrugsQR\DrugsQR\bin\Debug\DrugsQR.exe
+D:\Work\DotNet\DrugsQR\DrugsQR\bin\Debug\DrugsQR.pdb
+D:\Work\DotNet\DrugsQR\DrugsQR\obj\x86\Debug\DrugsQR.Form1.resources
+D:\Work\DotNet\DrugsQR\DrugsQR\obj\x86\Debug\DrugsQR.Properties.Resources.resources
+D:\Work\DotNet\DrugsQR\DrugsQR\obj\x86\Debug\DrugsQR.csproj.GenerateResource.Cache
+D:\Work\DotNet\DrugsQR\DrugsQR\obj\x86\Debug\DrugsQR.exe
+D:\Work\DotNet\DrugsQR\DrugsQR\obj\x86\Debug\DrugsQR.pdb
